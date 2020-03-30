@@ -37,5 +37,6 @@ while True:
     if(score[0][1] == 15):
         break
 
+print("Ganhador:")
 print(score[0][1])
 print(score[0][0])
