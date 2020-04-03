@@ -6,7 +6,6 @@ Resposta de cada questao seguir a sequencia de comandos
 
 ### `create 'italians', 'personal-data', 'professional-data'`
 ### `hbase shell italians`
-### `db.pets.findOne()`
 ### `put 'italians', '11', 'personal-data:name',  'Diego de Lima'`
 ### `put 'italians', '11', 'personal-data:bithday',  '1993-12-08'`
 ### `put 'italians', '11', 'professional-data:role',  'Developer'`
